@@ -2,10 +2,10 @@ from distutils.core import setup
 
 setup(
     name='quarry',
-    version='1.9.4',  # Also update doc/conf.py
+    version='1.9.5-custom',  # Also update doc/conf.py
     author='Barney Gale',
     author_email='barney@barneygale.co.uk',
-    url='https://github.com/barneygale/quarry',
+    url='https://github.com/0kq-github/quarry forked from https://github.com/barneygale/quarry',
     license='MIT',
     description='Minecraft protocol library',
     long_description=open('README.rst').read(),
