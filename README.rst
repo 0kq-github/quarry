@@ -13,12 +13,12 @@ Use ``pip`` to install quarry:
 
 .. code-block:: console
 
-    $ pip install quarry
+    $ pip install git+https://github.com/0kq-github/quarry.git@1.20
 
 Features
 --------
 
-- Supports Minecraft versions 1.7 through 1.19.2
+- Supports Minecraft versions 1.7 through 1.20.1
 - Supports Python 3.7+
 - Built upon ``twisted`` and ``cryptography``
 - Exposes base classes and hooks for implementing your own client, server or
